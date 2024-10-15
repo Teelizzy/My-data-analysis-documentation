@@ -27,4 +27,6 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
       6. Maintain data consistency
 
 ### Exploratory Data Analysis(EDA)
+
+      1
     
