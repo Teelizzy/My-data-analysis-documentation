@@ -19,12 +19,12 @@ The primary sources data is an open source data that can be freely downloaded fr
 ## Data Cleaning and Preparation
 In the initial phase of data cleaning and preparation, I perform the foloowing action;
 
-    1. Data loading and Inspection
-    2. Handling missing variables
-    3. Remove blanks
-    4. Remove duplicates
-    5. Replace missing values
-    6. Maintain data consistency
+      1. Data loading and Inspection
+      2. Handling missing variables
+      3. Remove blanks
+      4. Remove duplicates
+      5. Replace missing values
+      6. Maintain data consistency
 
 ### Exploratory Data Analysis(EDA)
     
