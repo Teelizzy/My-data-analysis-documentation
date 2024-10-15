@@ -11,7 +11,18 @@ The primary sources data is an open source data that can be freely downloaded fr
 
 ### Tools used
 - Microsofy excel 
-  1. for data cleaning
-  2. data processing
-  3. statistical analysis
-  4. data virtualization
+  1. For data cleaning
+  2. Data processing
+  3. Statistical analysis
+  4. Data virtualization
+
+## Data cleaning and preparation
+In the initial phase of data cleaning and preparation, I perform the foloowing action;
+
+    1. Data loading and Inspection
+    2. Handling missing variables
+    3. Remove blanks
+    4. Remove duplicates
+    5. Replace missing values
+    6. Maintain data consistency
+    
