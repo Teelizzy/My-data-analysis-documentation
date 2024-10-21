@@ -12,9 +12,10 @@ The primary sources data is an open source data that can be freely downloaded fr
 ### Tools Used
 - Microsofy excel 
   1. For Data Cleaning
-  2. Data Processing
-  3. Statistical Analysis
-  4. Data Virtualization
+  2. Data Extraction
+  3. Data Processing
+  4. Statistical Analysis
+  5. Data Virtualization
  
 - SQL-Structured Query Language for Querrying Data
 - Power BI
@@ -32,16 +33,23 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 
 ### Exploratory Data Analysis(EDA)
 
-![Statistical Analysis using Excel Function](https://github.com/user-attachments/assets/3f5a4c09-2375-4f38-93ac-f7e37af7b0b1)  ![Statistical Analysis 1](https://github.com/user-attachments/assets/06b51367-f0b5-4de3-834e-2d625a204620)               
- 
-![data table](https://github.com/user-attachments/assets/b3336481-2d76-469b-ae05-10570082ccba)   ![Stasistical Analysis of Pioneer Staff](https://github.com/user-attachments/assets/90915cba-0b7a-46bd-9115-e6fa941a6a7b)
-
 ![data extraction](https://github.com/user-attachments/assets/4232ab28-f7c2-4864-b649-09f867c035c2)
 
-![Data cleaning](https://github.com/user-attachments/assets/830cb887-d0aa-4357-96ef-463d38169392)
+![Data cleaning](https://github.com/user-attachments/assets/830cb887-d0aa-4357-96ef-463d38169392)        
 
 
-![Capture](https://github.com/user-attachments/assets/bb3eb484-5b8f-4c17-af17-0028ebf9c192)   ![Capturee](https://github.com/user-attachments/assets/9081b6a8-0849-4fa2-a7c8-2ea72a8d842e)
+![Capture](https://github.com/user-attachments/assets/bb3eb484-5b8f-4c17-af17-0028ebf9c192) ![Capturee](https://github.com/user-attachments/assets/12f87811-29df-46a5-af48-afb9a61adae7)
+
+ Before joining the first name with the domain and after joining the first name with the domain
+
+
+ ![Statistical Analysis using Excel Function](https://github.com/user-attachments/assets/15c085c0-bd72-42e8-93f3-ac639e41bc5c)  ![Statistical Analysis 1](https://github.com/user-attachments/assets/e6e8226f-dc83-4261-b76d-4313006ef16e)
+
+ ![data table](https://github.com/user-attachments/assets/b9ded8a4-f965-420d-985a-1f3f3b83d5a5)  ![Stasistical Analysis of Pioneer Staff](https://github.com/user-attachments/assets/c1162dcd-b64c-4554-95e4-e58aa1351634)
+
+
+
+
 
 
 
