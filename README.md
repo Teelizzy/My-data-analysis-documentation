@@ -10,7 +10,7 @@ The aim of this data analysis is to clean data, transform data, extract data and
 The primary sources data is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other reprository site.
 
 ### Tools Used
-- Microsofy excel 
+- Microsoft excel 
   1. For Data Cleaning
   2. Text Extraction
   3. Data Processing
