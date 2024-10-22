@@ -82,7 +82,7 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 
  ![SQL Query 1](https://github.com/user-attachments/assets/cc356983-a61c-442d-b761-b8b6d9166531)
 
- - Inserting Values into employees Table
+ - Inserting Values into employee Table
 
  ![SQL Query 2](https://github.com/user-attachments/assets/d15eba3e-9411-4e49-a624-4c4bd18cb38d)
 
