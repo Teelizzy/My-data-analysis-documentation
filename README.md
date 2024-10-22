@@ -76,6 +76,23 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 
 
 
+ ### STRUCTURED QUERY LANGUAGE
+
+ - Creating Employee Table
+
+ ![SQL Query 1](https://github.com/user-attachments/assets/cc356983-a61c-442d-b761-b8b6d9166531)
+
+ - Inserting Values into employees Table
+
+ ![SQL Query 2](https://github.com/user-attachments/assets/d15eba3e-9411-4e49-a624-4c4bd18cb38d)
+
+ ![SQL Query 3](https://github.com/user-attachments/assets/1302d349-6dc1-409c-8eec-1e8cf9ed157d)
+
+
+
+
+
+
 
 
 
