@@ -60,19 +60,19 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 
  - Data Analysis using Pivot Table
 
-   ![Data set for Pivot table and Virsualization](https://github.com/user-attachments/assets/f0210dc1-3896-4b57-8bd2-0e2a87fe00bd)
+ ![Data set for Pivot table and Virsualization](https://github.com/user-attachments/assets/f0210dc1-3896-4b57-8bd2-0e2a87fe00bd)
 
-   - Report
+ - Report
   
-     ![Report](https://github.com/user-attachments/assets/f9b3d4a5-0ba8-48a3-976f-58b100dd39a6)
+ ![Report](https://github.com/user-attachments/assets/f9b3d4a5-0ba8-48a3-976f-58b100dd39a6)
 
-     ![Report2](https://github.com/user-attachments/assets/78c52e17-5bab-4671-be0d-d3135a4a0b22)
+ ![Report2](https://github.com/user-attachments/assets/78c52e17-5bab-4671-be0d-d3135a4a0b22)
 
-     ![Report 3](https://github.com/user-attachments/assets/58affe68-acb2-4f0d-b149-685d29421332)
+ ![Report 3](https://github.com/user-attachments/assets/58affe68-acb2-4f0d-b149-685d29421332)
 
-     - Visualization
+ - Visualization
     
-      ![Pivot Charts](https://github.com/user-attachments/assets/1053c4bb-6d0e-4206-8551-46987aa94e73)
+ ![Pivot Charts](https://github.com/user-attachments/assets/1053c4bb-6d0e-4206-8551-46987aa94e73)
 
 
 
