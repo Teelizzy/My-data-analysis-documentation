@@ -70,6 +70,12 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 
      ![Report 3](https://github.com/user-attachments/assets/58affe68-acb2-4f0d-b149-685d29421332)
 
+     - Visualization
+    
+      ![Pivot Charts](https://github.com/user-attachments/assets/1053c4bb-6d0e-4206-8551-46987aa94e73)
+
+
+
 
 
 
