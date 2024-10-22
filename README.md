@@ -33,7 +33,8 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 
 ### Exploratory Data Analysis(EDA)
 
-![data extraction](https://github.com/user-attachments/assets/4232ab28-f7c2-4864-b649-09f867c035c2)
+![data extraction](https://github.com/user-attachments/assets/4232ab28-f7c2-4864-b649-09f867c035c2)  ![Extracts](https://github.com/user-attachments/assets/a4590a1c-ce43-449a-91f1-5950a74964e3)
+
 
 ![Data cleaning](https://github.com/user-attachments/assets/830cb887-d0aa-4357-96ef-463d38169392)        
 
