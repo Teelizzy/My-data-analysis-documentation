@@ -12,7 +12,7 @@ The primary sources data is an open source data that can be freely downloaded fr
 ### Tools Used
 - Microsofy excel 
   1. For Data Cleaning
-  2. Data Extraction
+  2. Text Extraction
   3. Data Processing
   4. Statistical Analysis
   5. Data Virtualization
@@ -32,10 +32,8 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
       6. Maintain data consistency
 
 ### Exploratory Data Analysis(EDA)
-
-- Data Extraction
-
 ![data extraction](https://github.com/user-attachments/assets/4232ab28-f7c2-4864-b649-09f867c035c2) ![Extracts](https://github.com/user-attachments/assets/a4590a1c-ce43-449a-91f1-5950a74964e3
+
 
 - Data Cleaning
 
