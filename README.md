@@ -31,11 +31,14 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
       5. Replace missing values
       6. Maintain data consistency
 
-### Exploratory Data Analysis(EDA)
-![data extraction](https://github.com/user-attachments/assets/4232ab28-f7c2-4864-b649-09f867c035c2) ![Extracts](https://github.com/user-attachments/assets/a4590a1c-ce43-449a-91f1-5950a74964e3
+### Exploratory Data Analysis(EDA
+
+    - Text Extraction
+![data extraction](https://github.com/user-attachments/assets/4232ab28-f7c2-4864-b649-09f867c035c2) ![Extracts](https://github.com/user-attachments/assets/85e297bd-726c-45f1-becb-8e7aa53050f1)
 
 
 - Data Cleaning
+  
 
 ![Data cleaning](https://github.com/user-attachments/assets/830cb887-d0aa-4357-96ef-463d38169392)        
 
@@ -45,6 +48,8 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
  ![Capturee](https://github.com/user-attachments/assets/12f87811-29df-46a5-af48-afb9a61adae7)
 
  Before joining the first name with the domain and after joining the first name with the domain
+
+ - Statistical Analysis
 
 
  ![Statistical Analysis using Excel Function](https://github.com/user-attachments/assets/15c085c0-bd72-42e8-93f3-ac639e41bc5c)  ![Statistical Analysis 1](https://github.com/user-attachments/assets/e6e8226f-dc83-4261-b76d-4313006ef16e)
