@@ -39,7 +39,9 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 ![Data cleaning](https://github.com/user-attachments/assets/830cb887-d0aa-4357-96ef-463d38169392)        
 
 
-![Capture](https://github.com/user-attachments/assets/bb3eb484-5b8f-4c17-af17-0028ebf9c192) ![Capturee](https://github.com/user-attachments/assets/12f87811-29df-46a5-af48-afb9a61adae7)
+![Text Cleaning](https://github.com/user-attachments/assets/06677b86-caf9-433b-809c-42ada702c9de)
+
+ ![Capturee](https://github.com/user-attachments/assets/12f87811-29df-46a5-af48-afb9a61adae7)
 
  Before joining the first name with the domain and after joining the first name with the domain
 
