@@ -90,7 +90,9 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 
 ## POWER BI
 
-Creating Visuals![LITA Class Work Visuals](https://github.com/user-attachments/assets/9367f992-bace-47d9-bfea-f62988043c56)
+Creating Visuals
+
+![LITA Class Work Visuals](https://github.com/user-attachments/assets/9367f992-bace-47d9-bfea-f62988043c56)
 
 
 
