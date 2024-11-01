@@ -88,6 +88,11 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 
  ![SQL Query 3](https://github.com/user-attachments/assets/1302d349-6dc1-409c-8eec-1e8cf9ed157d)
 
+## POWER BI
+
+Creating Visuals![LITA Class Work Visuals](https://github.com/user-attachments/assets/9367f992-bace-47d9-bfea-f62988043c56)
+
+
 
 
 
