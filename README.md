@@ -92,9 +92,62 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 
 Creating Visuals
 
-![LITA Class Work Visuals](https://github.com/user-attachments/assets/9367f992-bace-47d9-bfea-f62988043c56)
+![LITA Class Work Visuals](https://github.com/user-attachments/assets/9367f992-bace-47d9-bfea-f62988043c56) 
 
-#LITA CAPSTONE PROJECT
+##PowerBI Class Assignment
+
+![Power BI Aassignment](https://github.com/user-attachments/assets/d1f7cb68-b1e7-4a25-a6fd-cd9646b80058)
+
+
+
+
+## LITA CAPSTONE FINAL PROJECT
+
+STRUCTURED QUERY LANGUGE FINAL PROJECT ANALYSIS SCREENSHOT
+
+
+![Total sales with each product category SQL](https://github.com/user-attachments/assets/bae02d2f-52b0-4303-ae71-357cf0f2af39)
+
+
+![Total Revenue per Product](https://github.com/user-attachments/assets/8d04ad89-5604-409e-a7bf-4bc98875cc47)
+
+
+![Top 5 Customer by Total Purchase Amount](https://github.com/user-attachments/assets/ab32b656-86ff-4d5c-94d6-5402cb820861)
+
+
+![Top 1SQL](https://github.com/user-attachments/assets/69a662bc-0c8c-4dd6-bd3b-e1c64cb7e64b)
+
+
+![Sales per RegionSQL](https://github.com/user-attachments/assets/337492d3-f479-41d8-9e5d-f7d74e312fc1)
+
+
+![Product with no Sales in the last quater SQL](https://github.com/user-attachments/assets/c33b5967-e7b8-4bdc-9850-c7d62f0688ca)
+
+
+![Monthly Sales Total for the current Year](https://github.com/user-attachments/assets/fc82c7aa-4ea7-470f-8999-4ba4d7689f2d)
+
+## POWER BI FINAL PROJECT ANALYSIS SCREENSHOT
+
+
+![Power Bi Final Project 1](https://github.com/user-attachments/assets/7e280fc1-3221-4db8-9577-653613c67135)
+
+
+![Power BI Final proect 2](https://github.com/user-attachments/assets/bba152e7-aa4a-4474-b507-dafc6c36ec49)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
