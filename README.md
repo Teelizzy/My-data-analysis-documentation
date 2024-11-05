@@ -1,5 +1,5 @@
 # My-data-analysis-documentation
-This is where I documented my first project while learning data analysis with INCUBATOR HUB  and with TECHMINDS INFORMATION TECHNOLOGY
+This is where I documented my first project while learning data analysis with INCUBATOR HUB 
 
 ### Project Title: Data Analysis
 
@@ -93,6 +93,10 @@ In the initial phase of data cleaning and preparation, I perform the foloowing a
 Creating Visuals
 
 ![LITA Class Work Visuals](https://github.com/user-attachments/assets/9367f992-bace-47d9-bfea-f62988043c56)
+
+#LITA CAPSTONE PROJECT
+
+
 
 
 
