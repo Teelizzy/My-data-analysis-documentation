@@ -1,0 +1,50 @@
+
+  SELECT * FROM [Sales data];
+  SELECT Product,SUM(Total_Sales) AS
+  TotalSales
+  FROM [Sales data]
+  GROUP BY Product
+
+  -- Question 2--
+  SELECT Region, COUNT(OrderID) AS
+  NumOfTransactions
+  FROM [Sales data] GROUP BY Region
+
+  --Question 3--
+  SELECT Top (1) Product, SUM(Total_Sales)
+  AS TotalSales 
+  FROM [Sales data] 
+  GROUP BY Product
+  ORDER BY TotalSales DESC
+
+  --Question 4--
+SELECT Product, SUM(Total_Sales)
+AS TotalRevenue
+FROM [Sales data]
+GROUP BY Product
+
+--Question 5--
+SELECT MONTH(OrderDate) AS Month,
+SUM(Total_Sales) AS
+MonthlySalesTotal
+FROM [Sales data] WHERE YEAR(OrderDate) =2024
+GROUP BY Month(OrderDate)
+ORDER BY MONTH
+
+--Questuin 6--
+SELECT TOP (5) Customer_Id,
+SUM(Total_Sales)  AS TotalPurchaseAmount FROM
+[Sales Data] GROUP BY Customer_Id
+
+ORDER BY
+TotalPurchaseAmount Desc
+
+--Question 7--
+
+--Question 8--
+SELECT Product FROM [Sales data]
+GROUP BY Product
+HAVING SUM(CASE
+WHEN OrderDate BETWEEN
+'2024-06-01' AND '2024-08-31'
+THEN 1 ELSE 0 END)= 0
